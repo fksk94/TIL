@@ -106,3 +106,7 @@ $ git push origin master
 ## 레파지토리 주소
 
 ![re](git_정리.assets/re.png)
+
+
+
+* pull이 되지 않을 시 : `git pull origin master --allow-unrelated-histories`
