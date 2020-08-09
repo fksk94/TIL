@@ -110,3 +110,15 @@ $ git push origin master
 
 
 * pull이 되지 않을 시 : `git pull origin master --allow-unrelated-histories`
+* git log 바꿀려면 : `git --amend` 마지막 커밋만 바꿀 수 있따.
+* `git log --oneline`  로그 한 줄씩 보기
+* `git diff` 바뀐거 보는거 commit전에 볼 수 있다.
+
+
+
+* 되돌리기
+  * restore == reset
+  * --amend
+* 상태확인
+  * status, log, diff
+* 깃 ignore 치면 나옴.
