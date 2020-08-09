@@ -457,7 +457,7 @@ sd([1,2,3,4,5])
 
 
 
-## jupyter 09
+## jupyter 09 ~ 11
 
 > `type`: 공통 속성을 가진 객체들의 분류(class)
 
@@ -484,7 +484,17 @@ sd([1,2,3,4,5])
 
 
 
-
-
-
-
+``` python
+#
+class MyClass:
+    def instance_method(self):
+        return self
+    
+    @classmethod
+    def class_method(cls):
+        return cls
+    
+    @staticmethod
+    def static_method(arg):
+        return arg
+```
