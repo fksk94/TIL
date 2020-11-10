@@ -6,7 +6,7 @@ python를 기반으로 하는 백엔드 프레임워크
 
 pip install Django
 
-Django admin startproject (프로젝트명)
+Django-admin startproject (프로젝트명)
 
 Django manage.py startapp (앱명-복수형지향)
 
