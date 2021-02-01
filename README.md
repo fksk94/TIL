@@ -11,5 +11,4 @@ Today I Learned / How 'bout that? :D
 
 * https://txegg.tistory.com/category/Study/BOJ
 
-ps... Vue와 Spring 공부한다고 잘 못하고 있어요.. 그래도 백준 문제는 꾸준히 푸는 중! 올리지만 않을 뿐.. ㅎ
-
+ps... 매일 꾸준히 하겠습니다! 21.2.2(화) 새로운 맘으로.
