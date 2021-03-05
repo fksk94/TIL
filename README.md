@@ -11,4 +11,4 @@ Today I Learned / How 'bout that? :D
 
 * https://txegg.tistory.com/category/Study/BOJ
 
-ps... 매일 꾸준히 하겠습니다! 21.2.2(화) 새로운 맘으로.
+ps... 21.03.01(월) 새로운 맘으로 열심히!
